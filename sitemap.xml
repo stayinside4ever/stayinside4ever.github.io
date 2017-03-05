@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://stayinside4ever.github.io/post/drawabox-lesson-1/</loc>
+    <lastmod>2017-03-05T22:50:54+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://stayinside4ever.github.io/post/bluehammers-year-2/</loc>
     <lastmod>2017-03-05T20:57:46+02:00</lastmod>
   </url>
@@ -12,6 +17,18 @@
   </url>
   
   <url>
+    <loc>https://stayinside4ever.github.io/tags/drawabox/</loc>
+    <lastmod>2017-03-05T22:50:54+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://stayinside4ever.github.io/tags/drawing/</loc>
+    <lastmod>2017-03-05T22:50:54+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://stayinside4ever.github.io/tags/dwarf-fortress/</loc>
     <lastmod>2017-03-05T20:57:46+02:00</lastmod>
     <priority>0</priority>
@@ -19,7 +36,7 @@
   
   <url>
     <loc>https://stayinside4ever.github.io/</loc>
-    <lastmod>2017-03-05T20:57:46+02:00</lastmod>
+    <lastmod>2017-03-05T22:50:54+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -31,7 +48,7 @@
   
   <url>
     <loc>https://stayinside4ever.github.io/post/</loc>
-    <lastmod>2017-03-05T20:57:46+02:00</lastmod>
+    <lastmod>2017-03-05T22:50:54+02:00</lastmod>
     <priority>0</priority>
   </url>
   

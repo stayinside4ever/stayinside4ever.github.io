@@ -1,54 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://stayinside4ever.github.io/post/drawabox-lesson-1/</loc>
-    <lastmod>2017-03-05T22:50:54+02:00</lastmod>
+    <loc>https://stayinside4ever.github.io/posts/its-been-a-while/</loc>
+    <lastmod>2019-02-05T17:22:39+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stayinside4ever.github.io/post/bluehammers-year-2/</loc>
-    <lastmod>2017-03-05T20:57:46+02:00</lastmod>
+    <loc>https://stayinside4ever.github.io/posts/moving/</loc>
+    <lastmod>2017-10-07T17:05:54+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stayinside4ever.github.io/post/bluehammers-year-1/</loc>
-    <lastmod>2017-03-05T20:09:50+02:00</lastmod>
+    <loc>https://stayinside4ever.github.io/posts/drawabox-lesson-1/</loc>
+    <lastmod>2017-05-05T17:05:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stayinside4ever.github.io/tags/drawabox/</loc>
-    <lastmod>2017-03-05T22:50:54+02:00</lastmod>
-    <priority>0</priority>
+    <loc>https://stayinside4ever.github.io/posts/bluehammers-year-2/</loc>
+    <lastmod>2017-05-05T16:58:26+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stayinside4ever.github.io/tags/drawing/</loc>
-    <lastmod>2017-03-05T22:50:54+02:00</lastmod>
-    <priority>0</priority>
+    <loc>https://stayinside4ever.github.io/posts/bluehammers-year-1/</loc>
+    <lastmod>2017-05-05T13:39:22+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stayinside4ever.github.io/tags/dwarf-fortress/</loc>
-    <lastmod>2017-03-05T20:57:46+02:00</lastmod>
+    <loc>https://stayinside4ever.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://stayinside4ever.github.io/</loc>
-    <lastmod>2017-03-05T22:50:54+02:00</lastmod>
+    <lastmod>2019-02-05T17:22:39+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://stayinside4ever.github.io/tags/menaces-with-splinters/</loc>
-    <lastmod>2017-03-05T20:57:46+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://stayinside4ever.github.io/post/</loc>
-    <lastmod>2017-03-05T22:50:54+02:00</lastmod>
+    <loc>https://stayinside4ever.github.io/posts/</loc>
+    <lastmod>2019-02-05T17:22:39+02:00</lastmod>
     <priority>0</priority>
   </url>
   

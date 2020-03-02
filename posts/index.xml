@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://example.org/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on Mai Writes</title>
+    <link>https://stayinside4ever.github.io/posts/</link>
+    <description>Recent content in Posts on Mai Writes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 05 Feb 2019 17:22:39 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://stayinside4ever.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>It&#39;s Been a While</title>
-      <link>http://example.org/posts/its-been-a-while/</link>
+      <link>https://stayinside4ever.github.io/posts/its-been-a-while/</link>
       <pubDate>Tue, 05 Feb 2019 17:22:39 +0000</pubDate>
       
-      <guid>http://example.org/posts/its-been-a-while/</guid>
+      <guid>https://stayinside4ever.github.io/posts/its-been-a-while/</guid>
       <description>I’ve left this site abandoned for quite some time, but now I am in need of a place to host a small choose-your-own-adventure game I am making, so I will be using this site here again. I might post stuff about other projects I am working on at the moment too every now and then, if only to keep track of everything myself. They say that writing things down helps organize one’s thoughts.</description>
     </item>
     
     <item>
       <title>Drawabox Lesson 1</title>
-      <link>http://example.org/posts/drawabox-lesson-1/</link>
+      <link>https://stayinside4ever.github.io/posts/drawabox-lesson-1/</link>
       <pubDate>Fri, 05 May 2017 17:05:46 +0000</pubDate>
       
-      <guid>http://example.org/posts/drawabox-lesson-1/</guid>
+      <guid>https://stayinside4ever.github.io/posts/drawabox-lesson-1/</guid>
       <description>I started Drawabox lessons back in autumn. I never had the patience or willpower to stick through all of them, so I slowly started doing less and less after finishing Lesson 1. Never put that up for critique, either, because I was scared of criticism, since I’m quite harsh on myself as it is. But now I want to start doing the lessons again from scratch, so I’m putting what I have done up for critique, to know where I should improve this time around.</description>
     </item>
     
     <item>
       <title>Bluehammers Year 2</title>
-      <link>http://example.org/posts/bluehammers-year-2/</link>
+      <link>https://stayinside4ever.github.io/posts/bluehammers-year-2/</link>
       <pubDate>Fri, 05 May 2017 16:58:26 +0000</pubDate>
       
-      <guid>http://example.org/posts/bluehammers-year-2/</guid>
+      <guid>https://stayinside4ever.github.io/posts/bluehammers-year-2/</guid>
       <description>This is a fortress diary for my splinter for the splinter project “Menaces With Splinters” for the game Dwarf Fortress. Read more about the project on its subreddit. Also, I called my fort Bluehammers because I want to have a squad of hammerdwarves with blue cloaks. No reason for that, though.
  Granite
 We finally have an underground well next to our dormitory/hospital area. No more running to the nearby brook!</description>
@@ -42,10 +42,10 @@ We finally have an underground well next to our dormitory/hospital area. No more
     
     <item>
       <title>Bluehammers - Year 1</title>
-      <link>http://example.org/posts/bluehammers-year-1/</link>
+      <link>https://stayinside4ever.github.io/posts/bluehammers-year-1/</link>
       <pubDate>Fri, 05 May 2017 13:39:22 +0000</pubDate>
       
-      <guid>http://example.org/posts/bluehammers-year-1/</guid>
+      <guid>https://stayinside4ever.github.io/posts/bluehammers-year-1/</guid>
       <description>This is a fortress diary for my splinter for the splinter project “Menaces With Splinters” for the game Dwarf Fortress. Read more about the project on its subreddit. Also, I called my fort Bluehammers because I want to have a squad of hammerdwarves with blue cloaks. No reason for that, though.
  We have arrived!
 After digging a staircase to the caves (and then closing it at the lowest level), we set up a few workshops on the surface and some stockpiles below ground.</description>
